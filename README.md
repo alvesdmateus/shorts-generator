@@ -1,0 +1,2 @@
+# shorts-generator
+generate shorts 🤙
